@@ -10,6 +10,7 @@ Feel free to contribute! Only open-source challenges please!
 | | Company | Stack | Test
 |--|--|--|--
 | :canada: | [Coveo](https://www.coveo.com) | Java, Javascript | [Code →](https://github.com/coveo/QA-challenge)
+| :us: | [Busbud](https://www.busbud.com/en) | Javascript | [Code →](https://github.com/busbud/coding-challenge-qa-a)
 
 ## Inspiration
 
